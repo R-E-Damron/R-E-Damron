@@ -2,11 +2,12 @@
 ***
 
 Riley Damron is a Information Technologist and Programmer.
+He is a big believer in technological development, as it will help move humanity forward in a positive manner.
 
-He is a big believer in technological development, Riley supports .
 
 
-\\
+
+
 ### Contact & Socials
 ***
 
