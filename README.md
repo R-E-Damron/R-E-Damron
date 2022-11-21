@@ -1,11 +1,15 @@
-### About Me
-***
+<h1 align="center">About Me</h1>
+
 
 Riley Damron is a Information Technologist and Programmer.
 He is a big believer in technological development, as it will help move humanity forward in a positive manner.
 
-    
-![R-E-Damron github stats](https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true&hide_border=true)
+### Technical
+***
+Programming Languages Known:
+
+
+![R-E-Damron github stats](https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true&hide_border=true&theme=transparent)
 
 
 ### Contact & Socials
