@@ -9,7 +9,33 @@ He is a big believer in technological development, as it will help move humanity
 Programming Languages Known:
 
 
-![R-E-Damron github stats](https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true&hide_border=true&theme=transparent)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=R-E-Damron&theme=dark&hide_border=true&bg_color=00000000"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=R-E-Damron&hide_border=true&bg_color=00000000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true" />
+</picture><br/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true&hide_border=true&bg_color=00000000"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true" />
+</picture>
+
+
+
+
 
 
 ### Contact & Socials
