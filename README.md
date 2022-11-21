@@ -6,9 +6,7 @@ Riley Damron is a Information Technologist and Programmer.
 He is a big believer in technological development, Riley supports .
 
 
-\
-
-\
+\\
 ### Contact & Socials
 ***
 
