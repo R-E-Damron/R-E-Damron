@@ -94,7 +94,6 @@ He is a big believer in technological development, as it will help move humanity
 <img src="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true" />
 </picture>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=R-E-Damron&style=for-the-badge)
 
 
 
@@ -110,4 +109,5 @@ W.I.P.
 <a href="https://www.linkedin.com/in/riley-damron--business/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>
 <a href="https://join.slack.com/t/riley-contacts/shared_invite/zt-1kinepjbk-3QeJm2SpsBsgvrgs6Lf~3Q"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="50"></a>
 <a href="https://www.sololearn.com/profile/16763289"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" height="50"></a>
+<a href="https://join.skype.com/invite/hIMmYUfJCS5q"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" height="50"></a>
 </p>
