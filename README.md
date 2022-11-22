@@ -94,7 +94,7 @@ He is a big believer in technological development, as it will help move humanity
 <img src="https://github-readme-stats.vercel.app/api?username=R-E-Damron&show_icons=true" />
 </picture>
 </p>
-![](https://komarev.com/ghpvc/?username=R-E-Damron&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=R-E-Damron&style=for-the-badge)
 
 
 
