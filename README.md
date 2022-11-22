@@ -2,9 +2,13 @@
 
 <h1 align="center">About Me</h1>
 
+Riley Damron is a senior student at Advance High School in Advance Missouri. His goal is to become a Full Stack Developer. In pursuit of the goal, he is receiving further education at the Cape Girardeau Career Technology Center. He pursues the field of computer software and hardware because he greatly enjoys the work in those fields. His educational end goal? Is to get a Bachelor's Degree in Computer Science, and then become a Full Stack developer.
 
-Riley Damron is a Information Technologist and Programmer.
-He is a big believer in technological development, as it will help move humanity forward in a positive manner.
+As of right now, Riley Damron is a Beginer in Information Technology and Programming.<br/>
+What he belives: Technological development is an important part of the world as it stands right now, as it will help move humanity forward in a positive manner.
+
+<h2 align="center">Inspirations</h2>
+<h3 align="center">Quote</h3>
 
 
 
