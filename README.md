@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Riley%20Damron&width=1400&height=200)](https://github.com/Akshay090/svg-banners)
+![reversal](https://capsule-render.vercel.app/api?type=waving&text=Riley%20Damron&fontAlign=50&fontSize=30&animation=twinkling&color=gradient&customColorList=0,2,3&height=220&width=2000)
 
 <h1 align="center">About Me</h1>
 
