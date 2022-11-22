@@ -98,8 +98,14 @@ He is a big believer in technological development, as it will help move humanity
 
 
 <h1 align="center">Education</h1>
-W.I.P.
-
+<h3 align="center">Computer Networking/Security</h3>
+<p align="center">Cape Girardeau Career and Technology Center<br/>2022-Present<br/>Cape Girardeau, Mo 63703</p>
+<br/>
+<h3 align="center">Computer Coding and Programming</h3>
+<p align="center">Cape Girardeau Career and Technology Center<br/>2021-Present<br/>Cape Girardeau, Mo 63703</p>
+<br/>
+<h3 align="center">High School Diploma</h3>
+<p align="center">Advance Highschool<br/>2019-Present<br/>Advance, Mo 63730</p>
 
 
 <h1 align="center">Contacts & Socials</h1>
