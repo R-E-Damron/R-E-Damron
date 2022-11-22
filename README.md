@@ -99,7 +99,7 @@ He is a big believer in technological development, as it will help move humanity
 
 
 <h1 align="center">Education</h1>
-
+W.I.P.
 
 
 
