@@ -8,7 +8,9 @@ As of right now, Riley Damron is a Beginer in Information Technology and Program
 What he belives: Technological development is an important part of the world as it stands right now, as it will help move humanity forward in a positive manner.
 
 <h2 align="center">Inspirations</h2>
+<br/>
 <h3 align="center">Quote</h3>
+<blockquote align="center">“Love is wise, hatred is foolish.” — Bertrand Russell</blockquote>
 
 
 
