@@ -111,7 +111,7 @@ What he belives: Technological development is an important part of the world as 
 <p align="center">Cape Girardeau Career and Technology Center<br/>2021-2023<br/>Cape Girardeau, Mo 63703</p>
 <br/>
 <h3 align="center">High School Diploma</h3>
-<p align="center">Advance Highschool<br/>2019-Present<br/>Advance, Mo 63730</p>
+<p align="center">Advance Highschool<br/>2019-2023<br/>Advance, Mo 63730</p>
 
 
 <h1 align="center">Contacts & Socials</h1>
