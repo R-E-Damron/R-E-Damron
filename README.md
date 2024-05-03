@@ -2,9 +2,9 @@
 
 <h1 align="center">About Me</h1>
 
-Riley Damron is a senior student at Advance High School in Advance Missouri. His goal is to become a Full Stack Developer. In pursuit of the goal, he is receiving further education at the Cape Girardeau Career Technology Center. He pursues the field of computer software and hardware because he greatly enjoys the work in those fields. His educational end goal? Is to get a Bachelor's Degree in Computer Science, and then become a Full Stack developer.
+Riley Damron is a recent graduate from Advance R-IV High School in Advance Missouri. His goal is to become a Full Stack Developer. In pursuit of the goal, he is receiving further education at the Cape Girardeau Career Technology Center. He pursues the field of computer software and hardware because he greatly enjoys the work in those fields. His educational end goal? Is to get a Bachelor's Degree in Computer Science, and become a Full Stack developer.
 
-As of right now, Riley Damron is a Beginer in Information Technology and Programming.<br/>
+As of right now, Riley Damron has a General/Substantial understanding of Information Technology and Programming and is continuing to study.<br/>
 What he belives: Technological development is an important part of the world as it stands right now, as it will help move humanity forward in a positive manner.
 
 <h2 align="center">Inspirations</h2>
@@ -21,14 +21,14 @@ What he belives: Technological development is an important part of the world as 
 <h3 align="center">Programming Languages Known</h3>
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="50" src="" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
   <br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular" /></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" /></code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
+  <code><img height="50" src="" alt="Bootstrap" title="Bootstrap" /></code>
   <br/>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" /></code>
+	<code><img height="50" src="" alt="TypeScript" title="TypeScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 </div>
