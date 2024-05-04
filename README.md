@@ -105,7 +105,7 @@ What he belives: Technological development is an important part of the world as 
 
 <h1 align="center">Education</h1>
 <h3 align="center">Computer Networking/Security</h3>
-<p align="center">Cape Girardeau Career and Technology Center<br/>2022-Present<br/>Cape Girardeau, Mo 63703</p>
+<p align="center">Cape Girardeau Career and Technology Center<br/>2022-2024<br/>Cape Girardeau, Mo 63703</p>
 <br/>
 <h3 align="center">Computer Coding and Programming</h3>
 <p align="center">Cape Girardeau Career and Technology Center<br/>2021-2023<br/>Cape Girardeau, Mo 63703</p>
